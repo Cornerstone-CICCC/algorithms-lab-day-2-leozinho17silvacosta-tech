@@ -3,5 +3,9 @@
 // (e.g., the presence of "@" and a ".").
 // Example: validateEmail("test@example.com") should return true.
 
+const validateEmail = {
+    if
+}
+
 console.log(validateEmail("test@example.com")); // Expected output: true
 console.log(validateEmail("invalid-email.com")); // Expected output: false
