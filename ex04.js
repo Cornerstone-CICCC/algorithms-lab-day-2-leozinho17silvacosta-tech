@@ -2,4 +2,6 @@
 // that appears the most times. If there is a tie, return the first character that reaches the maximum frequency.
 // Example: mostFrequentChar("javascript") should return "a".
 
+const mostFrequentChar = 
+
 console.log(mostFrequentChar("javascript")); // Expected output: "a"
